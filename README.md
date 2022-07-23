@@ -17,7 +17,7 @@ Machine Learning with Scratch
   
   https://sketch2code.azurewebsites.net para 4 ESO y Bachillerato *** (Crea web a partir dibjp layout)
   
-  Teachable Machine
+  Teachable Machine (Google)
   
   https://sites.google.com/steamstudio.org/intelligentdevices/exploring-ai/ai-programming-with-scratch#h.jotp7k9j8zsj
   
@@ -28,5 +28,6 @@ Machine Learning with Scratch
   
   IBM
   https://machinelearningforkids.co.uk (***)
+
   
   
