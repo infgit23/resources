@@ -16,6 +16,7 @@ Machine Learning with Scratch (3r ESO)
  Robótica
  
  Comprar
+  
   https://tienda.bricogeek.com/microbit/1271-robot-maqueen-para-microbit.html
   https://tienda.bricogeek.com/microbit/1230-bbc-microbit-controlador-v2.html
  
