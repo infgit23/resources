@@ -24,12 +24,33 @@ Machine Learning with Scratch (3r ESO)
  Comprar
   
   https://tienda.bricogeek.com/microbit/1271-robot-maqueen-para-microbit.html
+  
   https://tienda.bricogeek.com/microbit/1230-bbc-microbit-controlador-v2.html
+ 
+ 
  
  Conocer y prograar Micro:MaQeen
  
   https://blog.330ohms.com/category/tutoriales/micromaqueen/
+  
   https://pedroruizf.github.io/maqueen_retos/retos_resueltos.html
+  
+  https://httyr.media.mit.edu
+  
+  https://docs.google.com/presentation/d/1kcibhOdoBiIbAtaHAq-w7BwSCO3UvRrNBApdnLEt-q8/edit#slide=id.g87c656e542_1_88
+  
+  
+  
+  Placa microbit v2
+  
+  (cuaderno de actividades)
+  https://microbit.ceibal.edu.uy/storage/app/uploads/public/61c/082/829/61c082829f59b976862558.pdf 
+  
+  https://programamos.es/microbit/
+  
+  https://microbit-more.github.io/editor/ (***editor scratch 3 + microbit)
+  
+  https://projectes.xtec.cat/programacioirobotica/portada/materials-didactics-de-microbit-publicats-a-lalexandria/
   
   Microsoft
   
