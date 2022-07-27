@@ -1,7 +1,7 @@
 # resources
 Webs útiles- 
 
-Machine Learning with Scratch (2n i 3r ESO)
+Machine Learning with Scratch (3r ESO)
 
   http://cognimates.me/home/ para la ESO ***
   https://scratchx.org/#faq (da problemas, necesita Flash)
@@ -12,6 +12,14 @@ Machine Learning with Scratch (2n i 3r ESO)
   Steam
   https://thestempedia.com/project/ (STEM project Hub mucho y bueno) **
   http://steamcurriculum.weebly.com/scratch-based-machine-learning.html (Bastantes recursos)**
+ 
+ Robótica
+ Comprorar
+  https://tienda.bricogeek.com/microbit/1271-robot-maqueen-para-microbit.html
+  https://tienda.bricogeek.com/microbit/1230-bbc-microbit-controlador-v2.html
+ 
+ Conocer y prograar Micro:MaQeen
+  https://blog.330ohms.com/category/tutoriales/micromaqueen/
   
   Microsoft
   
@@ -22,9 +30,10 @@ Machine Learning with Scratch (2n i 3r ESO)
   https://sites.google.com/steamstudio.org/intelligentdevices/exploring-ai/ai-programming-with-scratch#h.jotp7k9j8zsj
   
   MIT
-  https://www.media.mit.edu/posts/ai-blocks/ (Librerias para IA y Robótica.)***
-  https://scratch.mit.edu/discuss/topic/368296/ (Japo que es una máquina...)
-  https://dancingwithai.media.mit.edu (mediaLAb)***
+    (Librerias para IA y Robótica.)***
+    https://www.media.mit.edu/posts/ai-blocks/ 
+    https://scratch.mit.edu/discuss/topic/368296/ (Japo que es una máquina...)
+    https://dancingwithai.media.mit.edu (mediaLAb)***
   
   IBM
   https://machinelearningforkids.co.uk (***)
