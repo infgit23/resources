@@ -14,12 +14,15 @@ Machine Learning with Scratch (3r ESO)
   http://steamcurriculum.weebly.com/scratch-based-machine-learning.html (Bastantes recursos)**
  
  Robótica
- Comprorar
+ 
+ Comprar
   https://tienda.bricogeek.com/microbit/1271-robot-maqueen-para-microbit.html
   https://tienda.bricogeek.com/microbit/1230-bbc-microbit-controlador-v2.html
  
  Conocer y prograar Micro:MaQeen
+ 
   https://blog.330ohms.com/category/tutoriales/micromaqueen/
+  https://pedroruizf.github.io/maqueen_retos/retos_resueltos.html
   
   Microsoft
   
