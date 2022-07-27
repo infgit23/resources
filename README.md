@@ -13,8 +13,11 @@ Machine Learning with Scratch (3r ESO)
   
   
   Steam
+  
   https://thestempedia.com/project/ (STEM project Hub mucho y bueno) **
+  
   http://steamcurriculum.weebly.com/scratch-based-machine-learning.html (Bastantes recursos)**
+ 
  
  Robótica
  
