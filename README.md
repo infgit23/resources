@@ -4,8 +4,11 @@ Webs útiles-
 Machine Learning with Scratch (3r ESO)
 
   http://cognimates.me/home/ para la ESO ***
+  
   https://scratchx.org/#faq (da problemas, necesita Flash)
+  
   https://github.com/champierre/ml2scratch/blob/master/README.en.md (Japo...)
+  
   https://www.kaggle.com (de todo)
   
   
