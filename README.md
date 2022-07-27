@@ -1,6 +1,11 @@
 # resources
 Webs útiles- 
 
+  ## 3r ESO ##
+
+IA y sostenibilidad:
+https://www.sostenibilidad.com/desarrollo-sostenible/la-alianza-entre-inteligencia-artificial-y-desarrollo-sostenible/?_adin=11551547647
+
 Machine Learning with Scratch (3r ESO)
 
   http://cognimates.me/home/ para la ESO ***
@@ -75,6 +80,7 @@ Machine Learning with Scratch (3r ESO)
   B2 Hardware
   
   --Montaje PC (2020)--
+  
 Uni de Burgos
 https://3dubu.es/simulador-montaje-ordenador/
 
@@ -91,23 +97,34 @@ Dante
 https://www.youtube.com/watch?v=B60GjJaojgU
 
 --Nate Gentile--
+
 Como funcion el PC
+
 https://www.youtube.com/watch?v=0zkX6nlpiSk&t=40s
 
 ¿¿POR QUÉ TANTAS MEMORIAS??
+
 https://www.youtube.com/watch?v=IwUq0RiUank
 
 ¡Todo, TODO sobre la RAM! - Parte 1 | Nate Labs
+
 https://www.youtube.com/watch?v=yRNwl24l39E
 
 ¿Cómo funciona la RAM por dentro? - Todo, TODO sobre la RAM pt. 2
+
 https://www.youtube.com/watch?v=OZCEHXlHY4E&list=PL3ei_Xb7-ic6EWu3nYLCxMu2mSmhiAEq7&index=3
 
 ¿Vale la pena una fuente de 1200W?
+
 https://www.youtube.com/watch?v=mN9NKw9KkLA
 
 rtx
+
 https://www.youtube.com/watch?v=kYjbsbfEdTc
+
+SOP's
+(sistemas operativos origen y versiones actuales PC)
+https://www.youtube.com/watch?v=fPQCfy6FNE8
 
 
   B3 Redes
