@@ -128,8 +128,13 @@ https://www.youtube.com/watch?v=fPQCfy6FNE8
 
 
   B3 Redes
+
   
   B4 servicios en red (docker + wordpress o virtualización + xampp)
   
   https://comoinstalar.me/como-instalar-wordpress-en-ubuntu-22-04-lts/
   https://www.javierrguez.com/wordpress-docker-compose (***)
+
+# Python
+https://aprendepython.es/)https://aprendepython.es/
+
