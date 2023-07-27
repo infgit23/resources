@@ -1,1 +1,8 @@
-
+#IA
+https://learndigital.withgoogle.com/digitalunlocked/course/machine-learning-crash-course
+#Python
+https://learndigital.withgoogle.com/digitalunlocked/course/learn-python-basics-for-data-analysis
+#
+https://www.classcentral.com/course/google-cloud-computing-foundations-data-ml-and-ai-in-google-cloud-98571
+#Machine learning
+https://www.prosperityforamerica.org/machine-learning-certification-courses/
